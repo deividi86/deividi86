@@ -1,8 +1,8 @@
 ## Deividi Silva
-Currently serving as the VP of Tech at Gun.io, my software development journey spans across multiple areas from hands-on coding to leadership. As someone who thrives on the constant learning curve in technology, I eagerly collaborate on projects that resonate with my skill set.
+Currently VP of Tech at Gun.io. My software development journey spans multiple areas, from hands-on coding to leadership. As someone who thrives on the constant learning curve in technology, I eagerly collaborate on projects that resonate with my skill set.
 
 ### Personal Traits & Work Style
-My enthusiasm for novel ideas is balanced by a focus on the bigger picture. I value transparent communication and sometimes may come off as blunt because I believe in the potential for growth. I'm driven by autonomy and a flexible schedule. I'm an early bird and tend to block my calendar for deep work in the morning.
+My enthusiasm for novel ideas is balanced by focusing on the bigger picture. I value transparent communication and sometimes may come off as blunt because I believe in the growth potential. I'm driven by autonomy and a flexible schedule. I'm an early bird and tend to block my calendar for deep work in the morning.
 
 ### Motivation & Values
 I am motivated by continuous learning, clear objectives, creative problem-solving, and positive team dynamics. I appreciate curiosity, open-mindedness, collaboration, integrity, and resilience in myself and my peers.
